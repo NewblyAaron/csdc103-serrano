@@ -1,3 +1,9 @@
+// Filename     : bonus.cpp
+// Description  : Code that checks if a number has a digit.
+// Author       : Aaron Serrano
+// Honor Code   : I have not asked nor given any aunthorized help
+//                in completing this exercise.
+
 #include <iostream>
 #include <string>
 
